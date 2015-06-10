@@ -29,9 +29,8 @@ import android.view.View;
 import com.daimajia.androidanimations.library.BaseViewAnimator;
 import com.daimajia.easing.Glider;
 import com.daimajia.easing.Skill;
-import com.nineoldandroids.animation.ObjectAnimator;
 
-public class HingeAnimator extends BaseViewAnimator{
+/*public class HingeAnimator extends BaseViewAnimator{
     @Override
     public void prepare(View target) {
         float x = target.getPaddingLeft();
@@ -46,5 +45,5 @@ public class HingeAnimator extends BaseViewAnimator{
 
         setDuration(1300);
     }
-}
+}*/
 
